@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BumFuzzle152/cloud-auralux/static/css/main.187226ab.css",
+    "main.js": "/BumFuzzle152/cloud-auralux/static/js/main.11a74024.js",
+    "static/js/453.0083c652.chunk.js": "/BumFuzzle152/cloud-auralux/static/js/453.0083c652.chunk.js",
+    "index.html": "/BumFuzzle152/cloud-auralux/index.html",
+    "main.187226ab.css.map": "/BumFuzzle152/cloud-auralux/static/css/main.187226ab.css.map",
+    "main.11a74024.js.map": "/BumFuzzle152/cloud-auralux/static/js/main.11a74024.js.map",
+    "453.0083c652.chunk.js.map": "/BumFuzzle152/cloud-auralux/static/js/453.0083c652.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.187226ab.css",
+    "static/js/main.11a74024.js"
+  ]
+}
